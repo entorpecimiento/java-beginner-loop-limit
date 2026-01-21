@@ -1,21 +1,39 @@
-# 🚀 Retail Payroll System
+# 🚀 Java Beginner Loop Limit
 
-This project features a Java implementation designed to automate salary calculations for retail staff by processing bonuses and statutory deductions.
+This project features a straightforward Java implementation designed to manage repetitive control flows using basic programming structures.
 
-## ⚙️ Functionality
-The application allows the user to calculate payroll for three specific categories:
-1. **Stock Clerk (Repositor):** Base salary calculation ($15,890) plus a 10% performance bonus.
-2. **Cashier (Cajero):** Fixed monthly salary processing ($25,630.89).
-3. **Supervisor:** Gross salary calculation ($35,560.20) with an automatic 11% pension deduction.
+---
+
+## 🧠 Project Description
+
+The application provides a clean implementation of numeric sequences using loop structures:
+
+### 📌 Dynamic Sequence Generation
+- **Input:** Captures an integer provided by the user via console.
+- **Validation:** Checks the stop condition to ensure logic integrity.
+- **Output:** Prints a complete ascending sequence from 1 to the defined limit.
+
+---
 
 ## 🛠️ Technical Highlights
-* **Logic:** Implementation of nested `if-else` structures for category selection and input validation.
-* **Input Handling:** Dynamic data entry processing using the `Scanner` class via console.
-* **Precision:** Use of floating-point data types for accurate currency and percentage handling.
+- **Logic:** Efficient use of the `while` loop structure for flow control.
+- **Input Handling:** Dynamic data entry processing using the `Scanner` class.
+- **Clean Code:** Focused on foundational logic and input validation.
+
+---
+
+## 📂 Project Structure
+- src/
+  - main/
+    - java/
+      - com/mycompany/com/mycompany/ejerciciorepetitivas/
+        - ComMycompanyEjercicioRepetitivas.java
+
+---
 
 ## 📋 Requirements
-* **JDK 8** or higher.
-* **Java Execution Tool** (any IDE like NetBeans or a standard terminal).
+- **JDK 8** or higher.
+- **Java Execution Tool** (NetBeans IDE or terminal).
 
 ---
 
