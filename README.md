@@ -20,4 +20,4 @@ The application allows the user to calculate payroll for three specific categori
 ---
 
 ## 🚀 Author
-**entorpecimiento** [GitHub – entorpecimiento](https://github.com/entorpecimiento)
+[GitHub – entorpecimiento](https://github.com/entorpecimiento)
