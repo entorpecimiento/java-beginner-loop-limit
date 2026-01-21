@@ -1,4 +1,4 @@
-package com.mycompany.com.mycompany.ejerciciorepetitivas;
+package com.mycompany.ejerciciorepetitivas;
 
 import java.util.Scanner;
 
