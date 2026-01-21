@@ -1,13 +1,23 @@
-# Java Beginner Loop Limit
+# 🚀 Java Beginner Loop Limit
 
-Este proyecto contiene una implementación simple en Java para manejar flujos de control repetitivos.
+This project features a straightforward Java implementation designed to manage repetitive control flows using basic programming structures.
 
-## Funcionamiento
-El programa permite:
-1. Capturar un número entero por consola.
-2. Validar la condición de parada.
-3. Imprimir la secuencia numérica completa de forma ascendente.
+## ⚙️ Functionality
+The application allows the user to:
+1. **Capture** an integer input via the console.
+2. **Validate** the specific stop condition for the loop.
+3. **Print** a complete ascending numeric sequence starting from 1 up to the defined limit.
 
-## Requisitos
-* JDK 8 o superior.
-* Herramienta de ejecución de Java (IDE o terminal).
+## 🛠️ Technical Highlights
+* **Logic:** Efficient use of the `while` loop structure for flow control.
+* **Input Handling:** Dynamic data entry processing using the `Scanner` class.
+* **Clean Code:** Simple and readable implementation ideal for foundational learning.
+
+## 📋 Requirements
+* **JDK 8** or higher.
+* **Java Execution Tool** (any IDE like NetBeans or a standard terminal).
+
+---
+
+## 🚀 Author
+**Rubén Díaz** [GitHub – 0600donrouch](https://github.com/0600donrouch)
