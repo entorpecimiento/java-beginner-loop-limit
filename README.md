@@ -1,17 +1,17 @@
-# 🚀 Java Beginner Loop Limit
+# 🚀 Retail Payroll System
 
-This project features a straightforward Java implementation designed to manage repetitive control flows using basic programming structures.
+This project features a Java implementation designed to automate salary calculations for retail staff by processing bonuses and statutory deductions.
 
 ## ⚙️ Functionality
-The application allows the user to:
-1. **Capture** an integer input via the console.
-2. **Validate** the specific stop condition for the loop.
-3. **Print** a complete ascending numeric sequence starting from 1 up to the defined limit.
+The application allows the user to calculate payroll for three specific categories:
+1. **Stock Clerk (Repositor):** Base salary calculation ($15,890) plus a 10% performance bonus.
+2. **Cashier (Cajero):** Fixed monthly salary processing ($25,630.89).
+3. **Supervisor:** Gross salary calculation ($35,560.20) with an automatic 11% pension deduction.
 
 ## 🛠️ Technical Highlights
-* **Logic:** Efficient use of the `while` loop structure for flow control.
-* **Input Handling:** Dynamic data entry processing using the `Scanner` class.
-* **Clean Code:** Simple and readable implementation ideal for foundational learning.
+* **Logic:** Implementation of nested `if-else` structures for category selection and input validation.
+* **Input Handling:** Dynamic data entry processing using the `Scanner` class via console.
+* **Precision:** Use of floating-point data types for accurate currency and percentage handling.
 
 ## 📋 Requirements
 * **JDK 8** or higher.
@@ -20,4 +20,4 @@ The application allows the user to:
 ---
 
 ## 🚀 Author
-**Rubén Díaz** [GitHub – 0600donrouch](https://github.com/0600donrouch)
+**entorpecimiento** [GitHub – entorpecimiento](https://github.com/entorpecimiento)
